@@ -1,0 +1,14 @@
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+D:\Desktop\Новая папка (3)\serverChat\serverChat\bin\Debug\serverChat.exe.config
+D:\Desktop\Новая папка (3)\serverChat\serverChat\bin\Debug\serverChat.exe
+D:\Desktop\Новая папка (3)\serverChat\serverChat\bin\Debug\serverChat.pdb
+D:\Desktop\Новая папка (3)\serverChat\serverChat\obj\Debug\serverChat.csproj.AssemblyReference.cache
+D:\Desktop\Новая папка (3)\serverChat\serverChat\obj\Debug\serverChat.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Новая папка (3)\serverChat\serverChat\obj\Debug\serverChat.csproj.CoreCompileInputs.cache
+D:\Desktop\Новая папка (3)\serverChat\serverChat\obj\Debug\serverChat.exe
+D:\Desktop\Новая папка (3)\serverChat\serverChat\obj\Debug\serverChat.pdb

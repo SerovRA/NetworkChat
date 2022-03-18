@@ -1,0 +1,20 @@
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+D:\Desktop\Новая папка (3)\chatClient\chatClient\bin\Debug\chatClient.exe.config
+D:\Desktop\Новая папка (3)\chatClient\chatClient\bin\Debug\chatClient.exe
+D:\Desktop\Новая папка (3)\chatClient\chatClient\bin\Debug\chatClient.pdb
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.exe
+D:\Desktop\Новая папка (3)\chatClient\chatClient\obj\Debug\chatClient.pdb
